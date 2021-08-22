@@ -1,1 +1,3 @@
 # python-for-finance
+
+in progress...
